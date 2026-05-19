@@ -1,6 +1,7 @@
   
 **VMware Cloud Foundation 9.x**
-'UnOfficial Quick Read
+
+Unofficial Quick Read
 
 VCF 9.0 Architecture Reset  •  VCF 9.1 Refinement Layer
 
