@@ -1,7 +1,6 @@
   
 **VMware Cloud Foundation 9.x**
-
-**Deep Research Study Guide**
+'UnOfficial Quick Read
 
 VCF 9.0 Architecture Reset  •  VCF 9.1 Refinement Layer
 
